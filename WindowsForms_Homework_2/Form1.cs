@@ -543,6 +543,5 @@ namespace WindowsForms_Homework_2
             MessageBox.Show($"Today's income: {DailyIncome}", "Income", MessageBoxButtons.OK);
         }
 
-
     }
 }
